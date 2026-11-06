@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hlberg1219.github.io/kinbriva-support/sitemap.xml
